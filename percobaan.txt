@@ -1,0 +1,3 @@
+hallo dunia nama saya adalah ferindra
+
+sekarang saya sedang belajar git dan github
